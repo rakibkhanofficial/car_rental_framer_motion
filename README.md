@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![image](https://github.com/rakibkhanofficial/car_rental_framer_motion/assets/39366407/a752cf88-5617-4150-ad97-d555fef5df5a)
 
 ## Getting Started
 
